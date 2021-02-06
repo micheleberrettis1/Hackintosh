@@ -7,3 +7,4 @@ RX5500XT
 
 
 Add your Serial Number.
+Updated to OC 0.6.5
